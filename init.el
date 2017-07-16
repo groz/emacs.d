@@ -18,6 +18,7 @@
      ("melpa-stable" . "http://stable.melpa.org/packages/"))))
  '(package-selected-packages (quote (groovy-mode haskell-mode))))
 (package-initialize)
+(package-install-selected-packages)
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
