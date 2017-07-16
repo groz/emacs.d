@@ -18,6 +18,9 @@
      ("melpa-stable" . "http://stable.melpa.org/packages/"))))
  '(package-selected-packages (quote (groovy-mode haskell-mode))))
 (package-initialize)
+
+;; refresh & install selected packages
+(package-refresh-contents)
 (package-install-selected-packages)
 
 (custom-set-faces
