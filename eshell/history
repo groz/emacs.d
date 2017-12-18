@@ -1,0 +1,128 @@
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+python3 d03-spiral.py 
+git status
+git add -A
+git commit -m "Day 3"
+python3 d04-passphrases.py 
+python3 d04-passphrases.py 
+python3
+ls
+python3 d04-passphrases.py
+python3
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+git status
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d04-passphrases.py
+python3 d05-cpujumps-input.py
+ls
+ls -la
+mv d05-cpujumps-input.py d05-cpujumps-input.txt
+python3 d05-cpujumps-input.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+python3 d05-cpujumps.py
+git add -A
+git commit -m "Day 5"
+git log
+cd ~/.emacs.d/themes
+mkdir -p ~/.emacs.d/themes
+cd $_
+git clone https://github.com/cpaulik/emacs-material-theme
+ls ~/.emacs.d/themes/
