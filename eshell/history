@@ -1,87 +1,3 @@
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-python3 d03-spiral.py 
-git status
-git add -A
-git commit -m "Day 3"
-python3 d04-passphrases.py 
-python3 d04-passphrases.py 
-python3
-ls
-python3 d04-passphrases.py
-python3
 python3 d04-passphrases.py
 python3 d04-passphrases.py
 git status
@@ -126,3 +42,87 @@ mkdir -p ~/.emacs.d/themes
 cd $_
 git clone https://github.com/cpaulik/emacs-material-theme
 ls ~/.emacs.d/themes/
+ls
+git status
+git checkout d07-towers.py
+mv d09-parsing.py d09-groups.py
+pip freeze
+pip install numpy
+python
+python
+pip 
+pip list
+pip freeze
+pip install requests
+pip install autopep8
+lein run
+ls
+lein
+lein uberjar
+java -jar /Users/tagir/workspace/cloj/clojure-noob/target/uberjar/clojure-noob-0.1.0-SNAPSHOT-standalone.jar
+ls -lax target/uberjar
+ls -lax ./target/uberjar
+ls
+cd ..
+cd ..
+ls
+ls -lax target/uberjar/clojure-noob-0.1.0-SNAPSHOT-standalone.jar
+ls -la
+ls -la target/uberjar/
+lein repl
+lein repl
+pip freeze
+pip install BeautifulSoup
+pip install beautifulsoup4
+pip freeze
+npm run
+cat package.json
+npm run main
+npm main
+npm run --help
+npm help run
+npm install --save globalize
+node index.js
+ls
+node index.js
+npm run
+npm run main
+ls package.json
+cat package.json
+npm start
+npm run
+npm run
+npm run run
+npm run run
+npm run
+npm start
+npm test
+node
+npm run
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm install --save cldr-data
+env
+virtualenv
+python --version
+ipython3
+pip freeze
+pip install rope_py3k
+pip install importmagic
+pip install autopep8
+pip install yapf
+pip freeze
+pip freeze > requirements-dev.txt
+pip uninstall rope-py3k
+pip install jedi
+pip freeze > requirements-dev.txt
+cat requirements-dev.txt
+ls
+python mezzdemand.py 
+clear()
+
+python mezzdemand.py 
